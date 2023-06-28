@@ -6,7 +6,7 @@
 I am a coding enthusiast with a strong passion for software development and machine learning. My interests span various programming languages including C++, HTML, CSS, Python, DBMS, and SQL. I am constantly seeking new opportunities to expand my knowledge and skills in these areas. Currently, I am focused on learning machine learning concepts and techniques to apply them in real-world scenarios.
 
 ## Socials
-<p align="center">
+<p align="left">
   <a href="https://www.instagram.com/abhiiishek_kumar/">
     <img src="instagram-icon.png" alt="Instagram" width="32" height="32">
   </a>
