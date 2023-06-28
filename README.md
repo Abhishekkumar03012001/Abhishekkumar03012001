@@ -6,7 +6,10 @@
 I am a coding enthusiast with a strong passion for software development and machine learning. My interests span various programming languages including C++, HTML, CSS, Python, DBMS, and SQL. I am constantly seeking new opportunities to expand my knowledge and skills in these areas. Currently, I am focused on learning machine learning concepts and techniques to apply them in real-world scenarios.
 
 ## Projects
-- **Voice Assistant:** I am actively working on a voice assistant project and I'm open to collaboration. The aim is to develop an intelligent and interactive voice assistant that can perform various tasks based on voice commands. If you are interested in contributing to this project, feel free to reach out to me.
+## Projects
+- **Airport Management System (DBMS & SQL):** I have developed an Airport Management System using DBMS and SQL. This project aims to efficiently manage various aspects of airport operations such as flight schedules, passenger information, ticketing, and baggage handling. It incorporates a robust database design and implements SQL queries to retrieve and manipulate data. You can find the project repository .
+
+- **Python Voice Assistant:** I have also been working on a Python-based voice assistant. The goal of this project is to create an interactive voice assistant that can perform tasks based on voice commands. It utilizes speech recognition, natural language processing, and various Python libraries to provide a seamless user experience. I am open to collaboration on this project to further enhance its capabilities. If you're interested in contributing, please reach out to me.
 
 ## Contact
 You can reach me at:
