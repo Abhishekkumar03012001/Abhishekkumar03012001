@@ -14,7 +14,7 @@ I am a coding enthusiast with a strong passion for software development and mach
     <img src="linkedin-icon.png" alt="LinkedIn" width="32" height="32">
   </a>
   <a href="https://leetcode.com/abhiiishekkumar070/e">
-    <img src="Leetcode-icon.png" alt="Quora" width="32" height="32">
+    <img src="Leetcode-icon.png" alt="Leetcode" width="32" height="32">
   </a>
   <a href="https://twitter.com/Abhishe98014714">
     <img src="twitter-icon.png" alt="Twitter" width="32" height="32">
