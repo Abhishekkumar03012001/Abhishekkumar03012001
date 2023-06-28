@@ -3,6 +3,8 @@
 
 👋 Hi, I'm Abhishek kumar! Welcome to my GitHub profile.
 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
 ## About Me
 I am a coding enthusiast with a strong passion for software development and machine learning. My interests span various programming languages including C++, HTML, CSS, Python, DBMS, and SQL. I am constantly seeking new opportunities to expand my knowledge and skills in these areas. Currently, I am focused on learning machine learning concepts and techniques to apply them in real-world scenarios.
 
