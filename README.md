@@ -1,4 +1,4 @@
-![MasterHead](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)]
+
 # Abhishekkumar
 
 👋 Hi, I'm Abhishek kumar! Welcome to my GitHub profile.
