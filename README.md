@@ -5,7 +5,12 @@
 ## About Me
 I am a coding enthusiast with a strong passion for software development and machine learning. My interests span various programming languages including C++, HTML, CSS, Python, DBMS, and SQL. I am constantly seeking new opportunities to expand my knowledge and skills in these areas. Currently, I am focused on learning machine learning concepts and techniques to apply them in real-world scenarios.
 
-## Projects
+## Socials
+- Instagram: [instagram-handle](https://www.instagram.com/abhiiishek_kumar/)
+- LinkedIn: [linkedin-handle](https://www.linkedin.com/in/abhishek-kumar-0b9b22211/)
+- Leetcode: [leetcode-handle](https://leetcode.com/abhiiishekkumar070/)
+- Twitter: [twitter-handle](https://twitter.com/Abhishe98014714)
+  
 ## Projects
 - **Airport Management System (DBMS & SQL):** I have developed an Airport Management System using DBMS and SQL. This project aims to efficiently manage various aspects of airport operations such as flight schedules, passenger information, ticketing, and baggage handling. It incorporates a robust database design and implements SQL queries to retrieve and manipulate data. You can find the project repository .
 
