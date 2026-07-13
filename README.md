@@ -1,154 +1,127 @@
-# Hi there, I'm Abhishek Kumar 👋
+# Hi, I'm Abhishek Kumar 👋
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-## 🚀 Business Analyst | Data Analyst | Python Developer
+## Business Analyst | Data Analyst | Python Developer
 
-I'm a **Business Analyst at EXL**, working in the **Property & Casualty Insurance** domain with over **1 year of industry experience**. I specialize in transforming business problems into data-driven solutions through analytics, automation, reporting, and AI-powered applications.
+I'm a **Business Analyst at EXL** with over **1 year of experience** working in the **Property & Casualty Insurance** domain. My work involves transforming complex business requirements into data-driven solutions through analytics, reporting, process automation, and business intelligence.
 
-I enjoy building scalable Python applications, developing Business Intelligence dashboards, automating workflows, and exploring Generative AI, Machine Learning, and Retrieval-Augmented Generation (RAG).
+I enjoy solving business problems using data, automating repetitive tasks with Python, creating interactive dashboards, and continuously exploring AI and Machine Learning technologies to improve decision-making.
 
 ---
 
-## 💼 Professional Experience
+# 💼 Professional Experience
 
 ### Business Analyst | EXL
-**May 2025 - Present**
+**May 2025 – Present**
 
-Working with Property & Casualty Insurance clients on analytics, automation and reporting projects.
+Working with insurance clients to support analytics, reporting, business intelligence, and process improvement initiatives.
 
-### My work includes
+### Areas of Experience
 
-- 📊 Business Analytics & Data Analysis
-- 📈 Dashboard Development using Power BI & Tableau
-- 🐍 Python Automation
-- 🗃 SQL Data Analysis
-- 📑 Insurance Data Validation
-- ⚙ Process Optimization
-- 📉 KPI & Performance Reporting
-- 🤖 AI-powered Business Solutions
-- 📚 RAG Applications using LLMs
-- 📄 PDF & Excel Automation
-- 📊 Reporting Automation
-
----
-
-# 🛠 Tech Stack
-
-### Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-025E8C?style=for-the-badge&logo=sas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+- Business Analysis
+- Data Analysis
+- Business Intelligence
+- Requirement Gathering
+- Stakeholder Communication
+- Process Improvement
+- KPI & Performance Reporting
+- Data Validation & Quality Assurance
+- Reporting Automation
+- Workflow Automation
+- Insurance Analytics (Property & Casualty)
 
 ---
+
+# 🛠 Technical Skills
+
+### Programming Languages
+
+- Python
+- SAS
+- SQL
+- C++
+- C
+
+### Business Intelligence
+
+- Power BI
+- Tableau
+- Microsoft Excel
+- Pivot Tables
+- Power Query
+- Data Visualization
+- Dashboard Development
 
 ### Data Analytics
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+- Pandas
+- NumPy
+- Data Cleaning
+- Data Wrangling
+- Exploratory Data Analysis
+- Statistical Analysis
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+### Machine Learning & AI
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
----
-
-### AI / Machine Learning
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge)
-
-![RAG](https://img.shields.io/badge/RAG-Generative_AI-red?style=for-the-badge)
-
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-
-![FAISS](https://img.shields.io/badge/FAISS-blue?style=for-the-badge)
-
-![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
-
-![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface)
-
----
+- Machine Learning Fundamentals
+- Scikit-learn
+- Predictive Modeling
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- FAISS
+- Hugging Face
+- Ollama
+- Prompt Engineering
 
 ### Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- MySQL
+- SQL Server
+- Database Design
 
----
+### Development Tools
 
-### Tools
-
-Git • GitHub • VS Code • Jupyter Notebook • Postman • Power BI • Tableau • SAS Studio
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Postman
 
 ---
 
 # 🚀 Featured Projects
 
-## 📚 Talk2Books (RAG Application)
+### Airport Management System
 
-AI-powered document assistant built using:
-
-- LangChain
-- FAISS
-- Ollama
-- Hugging Face
-- Whisper
-- OCR
-- Python
-
-Supports:
-
-- PDF Chat
-- Website Chat
-- YouTube Chat
-- Voice Input
-- Multi-language Support
-- Image Understanding
+A relational database management system developed using SQL and MySQL for managing airport operations including flight scheduling, passenger records, ticketing, and database optimization.
 
 ---
 
-## 📊 Insurance Analytics Automation
+### Python Voice Assistant
 
-Developed multiple automation solutions for insurance workflows including:
-
-- Excel Automation
-- PDF Processing
-- Business Reporting
-- Data Validation
-- KPI Reporting
-- Python Automation
+A Python-based intelligent voice assistant capable of speech recognition, natural language processing, and automation of common tasks.
 
 ---
 
-## 🤖 Python Voice Assistant
+### Data Analytics & Automation
 
-Virtual assistant capable of:
-
-- Speech Recognition
-- Text-to-Speech
-- AI Conversations
-- Automation Tasks
+A collection of Python utilities developed for automating Excel processing, PDF extraction, reporting workflows, and data transformation tasks.
 
 ---
 
-## ✈ Airport Management System
+# 📚 Currently Learning
 
-DBMS project built using SQL and MySQL featuring:
-
-- Flight Management
-- Passenger Records
-- Ticket Booking
-- Database Design
-- SQL Optimization
+- Advanced Machine Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Generative AI Applications
+- Cloud Data Platforms
+- Advanced Business Intelligence
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Abhishekkumar03012001&show_icons=true&theme=tokyonight)
 
@@ -158,7 +131,7 @@ DBMS project built using SQL and MySQL featuring:
 
 ---
 
-## 🌍 Connect with Me
+# 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abhishek-kumar-0b9b22211)
 
@@ -170,8 +143,6 @@ DBMS project built using SQL and MySQL featuring:
 
 📧 **Email:** abhiiishekkumar070@gmail.com
 
-💼 **LinkedIn:** linkedin.com/in/abhishek-kumar-0b9b22211
-
 ---
 
-> *"Turning Data into Decisions. Automating the Impossible. Building AI for Real Business Problems."*
+> *Turning data into actionable insights through analytics, automation, and business intelligence.*
