@@ -1,55 +1,177 @@
+# Hi there, I'm Abhishek Kumar 👋
 
-# Abhishekkumar
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-👋 Hi, I'm Abhishek kumar! Welcome to my GitHub profile.
+## 🚀 Business Analyst | Data Analyst | Python Developer
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+I'm a **Business Analyst at EXL**, working in the **Property & Casualty Insurance** domain with over **1 year of industry experience**. I specialize in transforming business problems into data-driven solutions through analytics, automation, reporting, and AI-powered applications.
 
-## About Me
-I am a coding enthusiast with a strong passion for software development and machine learning. My interests span various programming languages including C++, HTML, CSS, Python, DBMS, and SQL. I am constantly seeking new opportunities to expand my knowledge and skills in these areas. Currently, I am focused on learning machine learning concepts and techniques to apply them in real-world scenarios.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhiiishek_kumar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-kumar-0b9b22211) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Abhishe98014714) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhishekkumar03012001&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abhishekkumar03012001&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekkumar03012001&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abhishekkumar03012001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Abhishekkumar03012001&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+I enjoy building scalable Python applications, developing Business Intelligence dashboards, automating workflows, and exploring Generative AI, Machine Learning, and Retrieval-Augmented Generation (RAG).
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abhishekkumar03012001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💼 Professional Experience
 
-## Projects
-- **Airport Management System (DBMS & SQL):** I have developed an Airport Management System using DBMS and SQL. This project aims to efficiently manage various aspects of airport operations such as flight schedules, passenger information, ticketing, and baggage handling. It incorporates a robust database design and implements SQL queries to retrieve and manipulate data. You can find the project repository .
+### Business Analyst | EXL
+**May 2025 - Present**
 
-- **Python Voice Assistant:** I have also been working on a Python-based voice assistant. The goal of this project is to create an interactive voice assistant that can perform tasks based on voice commands. It utilizes speech recognition, natural language processing, and various Python libraries to provide a seamless user experience. I am open to collaboration on this project to further enhance its capabilities. If you're interested in contributing, please reach out to me.
+Working with Property & Casualty Insurance clients on analytics, automation and reporting projects.
 
-## Contact
-You can reach me at:
-- Phone: +91 8580886858
-- Email-abhiiishekkumar070@gmail.com
+### My work includes
 
-## Get in Touch
-I'm always open to interesting collaborations and discussions related to coding, machine learning, or any other exciting projects. If you have any suggestions or ideas, please feel free to reach out to me. Let's connect and create amazing things together!
+- 📊 Business Analytics & Data Analysis
+- 📈 Dashboard Development using Power BI & Tableau
+- 🐍 Python Automation
+- 🗃 SQL Data Analysis
+- 📑 Insurance Data Validation
+- ⚙ Process Optimization
+- 📉 KPI & Performance Reporting
+- 🤖 AI-powered Business Solutions
+- 📚 RAG Applications using LLMs
+- 📄 PDF & Excel Automation
+- 📊 Reporting Automation
 
+---
 
+# 🛠 Tech Stack
 
-<!---
-Abhishekkumar03012001/Abhishekkumar03012001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-025E8C?style=for-the-badge&logo=sas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+---
+
+### Data Analytics
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+---
+
+### AI / Machine Learning
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge)
+
+![RAG](https://img.shields.io/badge/RAG-Generative_AI-red?style=for-the-badge)
+
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+
+![FAISS](https://img.shields.io/badge/FAISS-blue?style=for-the-badge)
+
+![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
+
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface)
+
+---
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### Tools
+
+Git • GitHub • VS Code • Jupyter Notebook • Postman • Power BI • Tableau • SAS Studio
+
+---
+
+# 🚀 Featured Projects
+
+## 📚 Talk2Books (RAG Application)
+
+AI-powered document assistant built using:
+
+- LangChain
+- FAISS
+- Ollama
+- Hugging Face
+- Whisper
+- OCR
+- Python
+
+Supports:
+
+- PDF Chat
+- Website Chat
+- YouTube Chat
+- Voice Input
+- Multi-language Support
+- Image Understanding
+
+---
+
+## 📊 Insurance Analytics Automation
+
+Developed multiple automation solutions for insurance workflows including:
+
+- Excel Automation
+- PDF Processing
+- Business Reporting
+- Data Validation
+- KPI Reporting
+- Python Automation
+
+---
+
+## 🤖 Python Voice Assistant
+
+Virtual assistant capable of:
+
+- Speech Recognition
+- Text-to-Speech
+- AI Conversations
+- Automation Tasks
+
+---
+
+## ✈ Airport Management System
+
+DBMS project built using SQL and MySQL featuring:
+
+- Flight Management
+- Passenger Records
+- Ticket Booking
+- Database Design
+- SQL Optimization
+
+---
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Abhishekkumar03012001&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abhishekkumar03012001&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekkumar03012001&layout=compact&theme=tokyonight)
+
+---
+
+## 🌍 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abhishek-kumar-0b9b22211)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/abhiiishek_kumar)
+
+---
+
+## 📫 Contact
+
+📧 **Email:** abhiiishekkumar070@gmail.com
+
+💼 **LinkedIn:** linkedin.com/in/abhishek-kumar-0b9b22211
+
+---
+
+> *"Turning Data into Decisions. Automating the Impossible. Building AI for Real Business Problems."*
